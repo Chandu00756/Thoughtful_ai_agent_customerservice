@@ -143,5 +143,6 @@ if __name__ == "__main__":
     app.launch(
         server_name=Config.HOST,
         server_port=Config.PORT,
+        share=True,
         show_error=True
     )
