@@ -1,0 +1,6 @@
+gradio
+sentence-transformers
+torch
+numpy
+groq
+openai
